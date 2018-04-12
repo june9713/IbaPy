@@ -1,5 +1,5 @@
 # IbaPy
-This project is analysis ".dat file" structure to use Iba Analyzer without IBA PDA.
+This project is analysis ".dat file" structure to use Iba Analyzer without IBA PDA.\n
 https://www.iba-ag.com/en/germany/products/
 IBA PDA provide very flexible and powerful way for data analysisng with Iba Analyzer.
 IBA PDA is gether huge amount of datas via many kind of ways(ethernet, serial, optic etc...) and Iba Analyzer 
